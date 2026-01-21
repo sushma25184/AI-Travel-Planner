@@ -1,0 +1,12 @@
+[
+  {"city":"Hyderabad","name":"Charminar","category":"heritage","avg_cost":100,"best_time":"Evening","duration_hours":2},
+  {"city":"Hyderabad","name":"Golconda Fort","category":"heritage","avg_cost":150,"best_time":"Morning","duration_hours":3},
+  {"city":"Hyderabad","name":"Hussain Sagar","category":"lake","avg_cost":50,"best_time":"Evening","duration_hours":2},
+  {"city":"Hyderabad","name":"Salar Jung Museum","category":"museum","avg_cost":100,"best_time":"Afternoon","duration_hours":2},
+  {"city":"Hyderabad","name":"Birla Mandir","category":"temple","avg_cost":0,"best_time":"Evening","duration_hours":1},
+  {"city":"Hyderabad","name":"Shilparamam","category":"culture","avg_cost":80,"best_time":"Evening","duration_hours":2},
+  {"city":"Hyderabad","name":"Ramoji Film City","category":"entertainment","avg_cost":1200,"best_time":"Morning","duration_hours":8},
+  {"city":"Hyderabad","name":"Street Food - DLF","category":"food","avg_cost":200,"best_time":"Night","duration_hours":2},
+  {"city":"Hyderabad","name":"Inorbit Mall","category":"shopping","avg_cost":0,"best_time":"Evening","duration_hours":3},
+  {"city":"Hyderabad","name":"Nehru Zoological Park","category":"nature","avg_cost":150,"best_time":"Morning","duration_hours":3}
+]

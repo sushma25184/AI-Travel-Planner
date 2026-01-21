@@ -1,0 +1,2256 @@
+[
+  {
+    "city": "Delhi",
+    "name": "India Gate",
+    "category": "war memorial",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Delhi",
+    "name": "Humayun's Tomb",
+    "category": "tomb",
+    "rating": 4.5,
+    "avg_cost": 30
+  },
+  {
+    "city": "Delhi",
+    "name": "Akshardham Temple",
+    "category": "temple",
+    "rating": 4.6,
+    "avg_cost": 60
+  },
+  {
+    "city": "Delhi",
+    "name": "Waste to Wonder Park",
+    "category": "theme park",
+    "rating": 4.1,
+    "avg_cost": 50
+  },
+  {
+    "city": "Delhi",
+    "name": "Jantar Mantar",
+    "category": "observatory",
+    "rating": 4.2,
+    "avg_cost": 15
+  },
+  {
+    "city": "Delhi",
+    "name": "Chandni Chowk",
+    "category": "market",
+    "rating": 4.2,
+    "avg_cost": 0
+  },
+  {
+    "city": "Delhi",
+    "name": "Lotus Temple",
+    "category": "temple",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Delhi",
+    "name": "Red Fort",
+    "category": "fort",
+    "rating": 4.5,
+    "avg_cost": 35
+  },
+  {
+    "city": "Delhi",
+    "name": "Agrasen ki Baoli",
+    "category": "stepwell",
+    "rating": 4.2,
+    "avg_cost": 0
+  },
+  {
+    "city": "Delhi",
+    "name": "Sunder Nursery",
+    "category": "park",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Delhi",
+    "name": "Garden of Five Senses",
+    "category": "park",
+    "rating": 4.1,
+    "avg_cost": 35
+  },
+  {
+    "city": "Delhi",
+    "name": "Lodhi Garden",
+    "category": "park",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Delhi",
+    "name": "National Gallery of Modern Art",
+    "category": "museum",
+    "rating": 4.5,
+    "avg_cost": 20
+  },
+  {
+    "city": "Delhi",
+    "name": "National Zoological Park",
+    "category": "zoo",
+    "rating": 4.1,
+    "avg_cost": 80
+  },
+  {
+    "city": "Delhi",
+    "name": "Qutub Minar",
+    "category": "monument",
+    "rating": 4.5,
+    "avg_cost": 35
+  },
+  {
+    "city": "Delhi",
+    "name": "National Science Centre",
+    "category": "science",
+    "rating": 4.4,
+    "avg_cost": 70
+  },
+  {
+    "city": "Maharastra",
+    "name": "Marine Drive",
+    "category": "promenade",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Maharastra",
+    "name": "Gateway of India",
+    "category": "monument",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Maharastra",
+    "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+    "category": "museum",
+    "rating": 4.6,
+    "avg_cost": 500
+  },
+  {
+    "city": "Maharastra",
+    "name": "Sanjay Gandhi National Park",
+    "category": "national park",
+    "rating": 4.3,
+    "avg_cost": 50
+  },
+  {
+    "city": "Maharastra",
+    "name": "Siddhivinayak Temple",
+    "category": "temple",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Maharastra",
+    "name": "Mahalaxmi Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Maharastra",
+    "name": "Haji Ali Dargah",
+    "category": "religious shrine",
+    "rating": 4.4,
+    "avg_cost": 0
+  },
+  {
+    "city": "Maharastra",
+    "name": "Chowpatty Beach",
+    "category": "beach",
+    "rating": 4.3,
+    "avg_cost": 0
+  },
+  {
+    "city": "Maharastra",
+    "name": "Essel World",
+    "category": "amusement park",
+    "rating": 4.3,
+    "avg_cost": 1149
+  },
+  {
+    "city": "Maharastra",
+    "name": "Elephanta Caves",
+    "category": "monument",
+    "rating": 4.3,
+    "avg_cost": 550
+  },
+  {
+    "city": "Maharastra",
+    "name": "Imagicaa",
+    "category": "amusement park",
+    "rating": 1.4,
+    "avg_cost": 1149
+  },
+  {
+    "city": "Karnataka",
+    "name": "Bangalore Palace",
+    "category": "palace",
+    "rating": 4.2,
+    "avg_cost": 500
+  },
+  {
+    "city": "Karnataka",
+    "name": "Lalbagh Botanical Garden",
+    "category": "botanical garden",
+    "rating": 4.4,
+    "avg_cost": 20
+  },
+  {
+    "city": "Karnataka",
+    "name": "Cubbon Park",
+    "category": "park",
+    "rating": 4.4,
+    "avg_cost": 0
+  },
+  {
+    "city": "Karnataka",
+    "name": "Vidhana Soudha",
+    "category": "government building",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Karnataka",
+    "name": "ISKCON Temple Bangalore",
+    "category": "temple",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Telangana",
+    "name": "Charminar",
+    "category": "landmark",
+    "rating": 4.5,
+    "avg_cost": 25
+  },
+  {
+    "city": "Telangana",
+    "name": "Golconda Fort",
+    "category": "fort",
+    "rating": 4.4,
+    "avg_cost": 30
+  },
+  {
+    "city": "Telangana",
+    "name": "Hussain Sagar Lake",
+    "category": "lake",
+    "rating": 4.3,
+    "avg_cost": 0
+  },
+  {
+    "city": "Telangana",
+    "name": "Ramoji Film City",
+    "category": "film studio",
+    "rating": 4.4,
+    "avg_cost": 1150
+  },
+  {
+    "city": "Telangana",
+    "name": "Salar Jung Museum",
+    "category": "museum",
+    "rating": 4.4,
+    "avg_cost": 20
+  },
+  {
+    "city": "Telangana",
+    "name": "Qutb Shahi Tombs",
+    "category": "tombs",
+    "rating": 4.4,
+    "avg_cost": 25
+  },
+  {
+    "city": "Telangana",
+    "name": "Birla Mandir",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Telangana",
+    "name": "Chowmahalla Palace",
+    "category": "palace",
+    "rating": 4.4,
+    "avg_cost": 80
+  },
+  {
+    "city": "Telangana",
+    "name": "Nehru Zoological Park",
+    "category": "zoo",
+    "rating": 4.2,
+    "avg_cost": 50
+  },
+  {
+    "city": "Telangana",
+    "name": "Lumbini Park",
+    "category": "park",
+    "rating": 4.1,
+    "avg_cost": 20
+  },
+  {
+    "city": "West Bengal",
+    "name": "Victoria Memorial",
+    "category": "museum",
+    "rating": 4.6,
+    "avg_cost": 30
+  },
+  {
+    "city": "West Bengal",
+    "name": "Howrah Bridge",
+    "category": "bridge",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "West Bengal",
+    "name": "Indian Museum",
+    "category": "museum",
+    "rating": 4.6,
+    "avg_cost": 50
+  },
+  {
+    "city": "West Bengal",
+    "name": "Dakshineswar Kali Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "West Bengal",
+    "name": "Kalighat Kali Temple",
+    "category": "temple",
+    "rating": 4.4,
+    "avg_cost": 0
+  },
+  {
+    "city": "West Bengal",
+    "name": "Eden Gardens",
+    "category": "cricket ground",
+    "rating": 4.1,
+    "avg_cost": 2500
+  },
+  {
+    "city": "West Bengal",
+    "name": "Alipore Zoological Gardens",
+    "category": "zoo",
+    "rating": 4.3,
+    "avg_cost": 25
+  },
+  {
+    "city": "West Bengal",
+    "name": "Science City Kolkata",
+    "category": "science",
+    "rating": 4.4,
+    "avg_cost": 60
+  },
+  {
+    "city": "West Bengal",
+    "name": "Belur Math",
+    "category": "site",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "West Bengal",
+    "name": "Marble Palace",
+    "category": "palace",
+    "rating": 4.4,
+    "avg_cost": 0
+  },
+  {
+    "city": "Goa",
+    "name": "Calangute Beach",
+    "category": "beach",
+    "rating": 4.4,
+    "avg_cost": 0
+  },
+  {
+    "city": "Goa",
+    "name": "Basilica of Bom Jesus",
+    "category": "church",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Goa",
+    "name": "Fort Aguada",
+    "category": "fort",
+    "rating": 4.2,
+    "avg_cost": 0
+  },
+  {
+    "city": "Goa",
+    "name": "Dudhsagar Falls",
+    "category": "waterfall",
+    "rating": 4.6,
+    "avg_cost": 500
+  },
+  {
+    "city": "Goa",
+    "name": "Anjuna Beach",
+    "category": "beach",
+    "rating": 4.4,
+    "avg_cost": 0
+  },
+  {
+    "city": "Goa",
+    "name": "Chapora Fort",
+    "category": "fort",
+    "rating": 4.2,
+    "avg_cost": 0
+  },
+  {
+    "city": "Goa",
+    "name": "Se Cathedral",
+    "category": "church",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Goa",
+    "name": "Baga Beach",
+    "category": "beach",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Goa",
+    "name": "Arambol Beach",
+    "category": "beach",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Goa",
+    "name": "Palolem Beach",
+    "category": "beach",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Goa",
+    "name": "Colva Beach",
+    "category": "beach",
+    "rating": 4.3,
+    "avg_cost": 0
+  },
+  {
+    "city": "Goa",
+    "name": "Miramar Beach",
+    "category": "beach",
+    "rating": 4.2,
+    "avg_cost": 0
+  },
+  {
+    "city": "Goa",
+    "name": "Aguada Beach",
+    "category": "beach",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Goa",
+    "name": "Dr. Salim Ali Bird Santuary",
+    "category": "bird sanctuary",
+    "rating": 3.9,
+    "avg_cost": 10
+  },
+  {
+    "city": "Gujarat",
+    "name": "Sabarmati Ashram",
+    "category": "historical",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Gujarat",
+    "name": "Dwarkadhish Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Gujarat",
+    "name": "Gir National Park",
+    "category": "national park",
+    "rating": 4.5,
+    "avg_cost": 3500
+  },
+  {
+    "city": "Gujarat",
+    "name": "White Desert",
+    "category": "site",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Gujarat",
+    "name": "Laxmi Vilas Palace",
+    "category": "palace",
+    "rating": 4.4,
+    "avg_cost": 200
+  },
+  {
+    "city": "Gujarat",
+    "name": "Somnath Temple",
+    "category": "temple",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Gujarat",
+    "name": "Rann Utsav",
+    "category": "cultural",
+    "rating": 4.9,
+    "avg_cost": 7500
+  },
+  {
+    "city": "Gujarat",
+    "name": "Statue of Unity",
+    "category": "monument",
+    "rating": 4.6,
+    "avg_cost": 350
+  },
+  {
+    "city": "Gujarat",
+    "name": "Dandi Kutir",
+    "category": "museum",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Gujarat",
+    "name": "Sabarmati Riverfront",
+    "category": "urban development project",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Gujarat",
+    "name": "Manek Chowk",
+    "category": "market",
+    "rating": 4.4,
+    "avg_cost": 0
+  },
+  {
+    "city": "Gujarat",
+    "name": "Kankaria Lake",
+    "category": "lake",
+    "rating": 4.5,
+    "avg_cost": 10
+  },
+  {
+    "city": "Gujarat",
+    "name": "Science City",
+    "category": "science",
+    "rating": 4.4,
+    "avg_cost": 500
+  },
+  {
+    "city": "Rajasthan",
+    "name": "Hawa Mahal",
+    "category": "palace",
+    "rating": 4.4,
+    "avg_cost": 50
+  },
+  {
+    "city": "Rajasthan",
+    "name": "City Palace",
+    "category": "palace",
+    "rating": 4.4,
+    "avg_cost": 300
+  },
+  {
+    "city": "Rajasthan",
+    "name": "Jaisalmer Fort",
+    "category": "fort",
+    "rating": 4.4,
+    "avg_cost": 50
+  },
+  {
+    "city": "Rajasthan",
+    "name": "Ranthambore National Park",
+    "category": "wildlife sanctuary",
+    "rating": 4.6,
+    "avg_cost": 500
+  },
+  {
+    "city": "Rajasthan",
+    "name": "Pushkar Lake",
+    "category": "temple",
+    "rating": 4.4,
+    "avg_cost": 0
+  },
+  {
+    "city": "Rajasthan",
+    "name": "Ajmer Sharif Dargah",
+    "category": "shrine",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Rajasthan",
+    "name": "Mehrangarh Fort",
+    "category": "fort",
+    "rating": 4.6,
+    "avg_cost": 100
+  },
+  {
+    "city": "Rajasthan",
+    "name": "Chittorgarh Fort",
+    "category": "fort",
+    "rating": 4.6,
+    "avg_cost": 40
+  },
+  {
+    "city": "Rajasthan",
+    "name": "Dilwara Temples",
+    "category": "temple",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Rajasthan",
+    "name": "Junagarh Fort",
+    "category": "fort",
+    "rating": 4.5,
+    "avg_cost": 50
+  },
+  {
+    "city": "Rajasthan",
+    "name": "Amber Fort",
+    "category": "fort",
+    "rating": 4.6,
+    "avg_cost": 100
+  },
+  {
+    "city": "Rajasthan",
+    "name": "Jaigarh Fort",
+    "category": "fort",
+    "rating": 4.5,
+    "avg_cost": 35
+  },
+  {
+    "city": "Rajasthan",
+    "name": "Lake Pichola",
+    "category": "lake",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Punjab",
+    "name": "Golden Temple (Harmandir Sahib)",
+    "category": "religious site",
+    "rating": 4.9,
+    "avg_cost": 0
+  },
+  {
+    "city": "Punjab",
+    "name": "Jallianwala Bagh",
+    "category": "memorial",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Punjab",
+    "name": "Wagah Border",
+    "category": "border crossing",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Punjab",
+    "name": "Rock Garden",
+    "category": "sculpture garden",
+    "rating": 4.5,
+    "avg_cost": 30
+  },
+  {
+    "city": "Kerala",
+    "name": "Alappuzha Beach",
+    "category": "beach",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Kerala",
+    "name": "Munnar Tea Gardens",
+    "category": "scenic area",
+    "rating": 4.3,
+    "avg_cost": 0
+  },
+  {
+    "city": "Kerala",
+    "name": "Fort Kochi",
+    "category": "site",
+    "rating": 4.4,
+    "avg_cost": 0
+  },
+  {
+    "city": "Kerala",
+    "name": "Padmanabhaswamy Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Kerala",
+    "name": "Kozhikode Beach",
+    "category": "beach",
+    "rating": 3.9,
+    "avg_cost": 0
+  },
+  {
+    "city": "Kerala",
+    "name": "Wayanad Wildlife Sanctuary",
+    "category": "wildlife sanctuary",
+    "rating": 4.5,
+    "avg_cost": 300
+  },
+  {
+    "city": "Kerala",
+    "name": "Periyar National Park",
+    "category": "national park",
+    "rating": 4.3,
+    "avg_cost": 50
+  },
+  {
+    "city": "Kerala",
+    "name": "Kumarakom Bird Sanctuary",
+    "category": "bird sanctuary",
+    "rating": 3.8,
+    "avg_cost": 50
+  },
+  {
+    "city": "Kerala",
+    "name": "Varkala Beach",
+    "category": "beach",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Kerala",
+    "name": "Bekal Fort",
+    "category": "fort",
+    "rating": 4.5,
+    "avg_cost": 20
+  },
+  {
+    "city": "Kerala",
+    "name": "Kovalam Beach",
+    "category": "beach",
+    "rating": 4.4,
+    "avg_cost": 0
+  },
+  {
+    "city": "Kerala",
+    "name": "St. Angelo Fort",
+    "category": "fort",
+    "rating": 4.4,
+    "avg_cost": 20
+  },
+  {
+    "city": "Kerala",
+    "name": "Seethargundu Viewpoint",
+    "category": "viewpoint",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Kerala",
+    "name": "Kerala Folklore Museum",
+    "category": "cultural",
+    "rating": 4.4,
+    "avg_cost": 100
+  },
+  {
+    "city": "Kerala",
+    "name": "Wonderla Amusement Park",
+    "category": "amusement park",
+    "rating": 4.6,
+    "avg_cost": 750
+  },
+  {
+    "city": "Karnataka",
+    "name": "Mysore Palace",
+    "category": "palace",
+    "rating": 4.6,
+    "avg_cost": 50
+  },
+  {
+    "city": "Karnataka",
+    "name": "Hampi Archaeological Ruins",
+    "category": "site",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Karnataka",
+    "name": "Abbey Falls",
+    "category": "waterfall",
+    "rating": 4.1,
+    "avg_cost": 0
+  },
+  {
+    "city": "Karnataka",
+    "name": "Om Beach",
+    "category": "beach",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Karnataka",
+    "name": "Mullayanagiri",
+    "category": "mountain peak",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Karnataka",
+    "name": "Badami Cave Temples",
+    "category": "cave",
+    "rating": 4.6,
+    "avg_cost": 30
+  },
+  {
+    "city": "Karnataka",
+    "name": "Jog Falls",
+    "category": "waterfall",
+    "rating": 4.6,
+    "avg_cost": 30
+  },
+  {
+    "city": "Karnataka",
+    "name": "Panambur Beach",
+    "category": "beach",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Karnataka",
+    "name": "Murudeshwar Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Karnataka",
+    "name": "Gol Gumbaz",
+    "category": "mausoleum",
+    "rating": 4.5,
+    "avg_cost": 20
+  },
+  {
+    "city": "Karnataka",
+    "name": "Bandipur National Park",
+    "category": "national park",
+    "rating": 4.4,
+    "avg_cost": 300
+  },
+  {
+    "city": "Karnataka",
+    "name": "Halebidu Hoysaleswara Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 15
+  },
+  {
+    "city": "Maharastra",
+    "name": "Shaniwar Wada",
+    "category": "fort",
+    "rating": 4.4,
+    "avg_cost": 50
+  },
+  {
+    "city": "Maharastra",
+    "name": "Ajanta Caves",
+    "category": "cave",
+    "rating": 4.6,
+    "avg_cost": 30
+  },
+  {
+    "city": "Maharastra",
+    "name": "Sula Vineyards",
+    "category": "vineyard",
+    "rating": 4.1,
+    "avg_cost": 300
+  },
+  {
+    "city": "Maharastra",
+    "name": "Sai Baba Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Maharastra",
+    "name": "Alibaug Beach",
+    "category": "beach",
+    "rating": 4.2,
+    "avg_cost": 0
+  },
+  {
+    "city": "Maharastra",
+    "name": "Ganapatipule Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Maharastra",
+    "name": "Deekshabhoomi",
+    "category": "monument",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Maharastra",
+    "name": "Mahalakshmi Temple",
+    "category": "temple",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Maharastra",
+    "name": "Karla Caves",
+    "category": "cave",
+    "rating": 4.4,
+    "avg_cost": 25
+  },
+  {
+    "city": "Maharashtra",
+    "name": "Tarkarli Beach",
+    "category": "beach",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Maharashtra",
+    "name": "Kaas Plateau",
+    "category": "valley",
+    "rating": 4.4,
+    "avg_cost": 300
+  },
+  {
+    "city": "Maharashtra",
+    "name": "Echo Point",
+    "category": "viewpoint",
+    "rating": 4.4,
+    "avg_cost": 0
+  },
+  {
+    "city": "Maharashtra",
+    "name": "Ellora Caves",
+    "category": "cave",
+    "rating": 4.7,
+    "avg_cost": 30
+  },
+  {
+    "city": "Madhya Pradesh",
+    "name": "Khajuraho Group of Monuments",
+    "category": "temples",
+    "rating": 4.7,
+    "avg_cost": 40
+  },
+  {
+    "city": "Madhya Pradesh",
+    "name": "Sanchi Stupa",
+    "category": "monument",
+    "rating": 4.7,
+    "avg_cost": 30
+  },
+  {
+    "city": "Madhya Pradesh",
+    "name": "Rajwada Palace",
+    "category": "palace",
+    "rating": 4.4,
+    "avg_cost": 10
+  },
+  {
+    "city": "Madhya Pradesh",
+    "name": "Gwalior Fort",
+    "category": "fort",
+    "rating": 4.5,
+    "avg_cost": 75
+  },
+  {
+    "city": "Madhya Pradesh",
+    "name": "Mahakaleshwar Jyotirlinga",
+    "category": "temple",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Madhya Pradesh",
+    "name": "Dhuandhar Falls",
+    "category": "waterfall",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Madhya Pradesh",
+    "name": "Bee Falls",
+    "category": "waterfall",
+    "rating": 4.6,
+    "avg_cost": 15
+  },
+  {
+    "city": "Madhya Pradesh",
+    "name": "Kanha National Park",
+    "category": "wildlife sanctuary",
+    "rating": 4.5,
+    "avg_cost": 100
+  },
+  {
+    "city": "Madhya Pradesh",
+    "name": "Bandhavgarh National Park",
+    "category": "national park",
+    "rating": 4.5,
+    "avg_cost": 50
+  },
+  {
+    "city": "Madhya Pradesh",
+    "name": "Orchha Fort",
+    "category": "fort",
+    "rating": 4.8,
+    "avg_cost": 10
+  },
+  {
+    "city": "Madhya Pradesh",
+    "name": "Jahaz Mahal",
+    "category": "site",
+    "rating": 3.9,
+    "avg_cost": 50
+  },
+  {
+    "city": "Madhya Pradesh",
+    "name": "Bhimbetka Rock Shelters",
+    "category": "prehistoric site",
+    "rating": 4.6,
+    "avg_cost": 25
+  },
+  {
+    "city": "Madhya Pradesh",
+    "name": "Narmada Udgam Temple",
+    "category": "temple",
+    "rating": 4.4,
+    "avg_cost": 0
+  },
+  {
+    "city": "Madhya Pradesh",
+    "name": "Chitrakoot Falls",
+    "category": "waterfall",
+    "rating": 4.4,
+    "avg_cost": 0
+  },
+  {
+    "city": "Himachal Pradesh",
+    "name": "The Ridge",
+    "category": "scenic point",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Himachal Pradesh",
+    "name": "Solang Valley",
+    "category": "valley",
+    "rating": 4.1,
+    "avg_cost": 0
+  },
+  {
+    "city": "Himachal Pradesh",
+    "name": "Dalai Lama Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Himachal Pradesh",
+    "name": "Khajjiar Lake",
+    "category": "lake",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Himachal Pradesh",
+    "name": "Key Monastery",
+    "category": "monastery",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Himachal Pradesh",
+    "name": "Great Himalayan National Park",
+    "category": "national park",
+    "rating": 4.5,
+    "avg_cost": 50
+  },
+  {
+    "city": "Himachal Pradesh",
+    "name": "Chamera Lake",
+    "category": "lake",
+    "rating": 4.4,
+    "avg_cost": 0
+  },
+  {
+    "city": "Himachal Pradesh",
+    "name": "Sangla Valley",
+    "category": "valley",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Himachal Pradesh",
+    "name": "Kangra Fort",
+    "category": "fort",
+    "rating": 4.4,
+    "avg_cost": 150
+  },
+  {
+    "city": "Himachal Pradesh",
+    "name": "Tea Gardens",
+    "category": "tea plantation",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Himachal Pradesh",
+    "name": "Prashar Lake",
+    "category": "lake",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Himachal Pradesh",
+    "name": "Paragliding Site",
+    "category": "adventure sport",
+    "rating": 4.8,
+    "avg_cost": 2500
+  },
+  {
+    "city": "Himachal Pradesh",
+    "name": "Triund Trek",
+    "category": "trekking",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Himachal Pradesh",
+    "name": "Manikaran Sahib",
+    "category": "gurudwara",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Himachal Pradesh",
+    "name": "Hatu Peak",
+    "category": "viewpoint",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Himachal Pradesh",
+    "name": "Barot Valley",
+    "category": "valley",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Himachal Pradesh",
+    "name": "Serolsar Lake",
+    "category": "lake",
+    "rating": 4.4,
+    "avg_cost": 0
+  },
+  {
+    "city": "Himachal Pradesh",
+    "name": "Kufri Fun World",
+    "category": "ski resort",
+    "rating": 3.8,
+    "avg_cost": 1500
+  },
+  {
+    "city": "Uttarakhand",
+    "name": "Naini Lake",
+    "category": "lake",
+    "rating": 4.2,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttarakhand",
+    "name": "Laxman Jhula",
+    "category": "suspension bridge",
+    "rating": 4.4,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttarakhand",
+    "name": "Har Ki Pauri",
+    "category": "ghat",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttarakhand",
+    "name": "Robber's Cave",
+    "category": "cave",
+    "rating": 4.5,
+    "avg_cost": 25
+  },
+  {
+    "city": "Uttarakhand",
+    "name": "Kempty Falls",
+    "category": "waterfall",
+    "rating": 4.2,
+    "avg_cost": 15
+  },
+  {
+    "city": "Uttarakhand",
+    "name": "Auli Ski Resort",
+    "category": "ski resort",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttarakhand",
+    "name": "Badrinath Temple",
+    "category": "temple",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttarakhand",
+    "name": "Binsar Wildlife Sanctuary",
+    "category": "wildlife sanctuary",
+    "rating": 4.3,
+    "avg_cost": 150
+  },
+  {
+    "city": "Uttarakhand",
+    "name": "Chaubatia Gardens",
+    "category": "orchard",
+    "rating": 4.0,
+    "avg_cost": 50
+  },
+  {
+    "city": "Uttarakhand",
+    "name": "Jim Corbett National Park",
+    "category": "national park",
+    "rating": 4.4,
+    "avg_cost": 100
+  },
+  {
+    "city": "Uttarakhand",
+    "name": "Gangotri Temple",
+    "category": "temple",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttarakhand",
+    "name": "Tungnath Temple",
+    "category": "temple",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttarakhand",
+    "name": "Valley of Flowers",
+    "category": "national park",
+    "rating": 4.7,
+    "avg_cost": 150
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Taj Mahal",
+    "category": "mausoleum",
+    "rating": 4.6,
+    "avg_cost": 50
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Kashi Vishwanath Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Bara Imambara",
+    "category": "monument",
+    "rating": 4.4,
+    "avg_cost": 50
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Krishna Janmabhoomi",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Ram Janmabhoomi",
+    "category": "religious site",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Banke Bihari Temple",
+    "category": "temple",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Triveni Sangam",
+    "category": "confluence",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Jhansi Fort",
+    "category": "fort",
+    "rating": 4.4,
+    "avg_cost": 15
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Dhamek Stupa",
+    "category": "monument",
+    "rating": 4.6,
+    "avg_cost": 5
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Buland Darwaza",
+    "category": "monument",
+    "rating": 4.4,
+    "avg_cost": 40
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Okhla Bird Sanctuary",
+    "category": "bird sanctuary",
+    "rating": 4.3,
+    "avg_cost": 30
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Aligarh Fort",
+    "category": "fort",
+    "rating": 4.1,
+    "avg_cost": 20
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Augarnath Temple",
+    "category": "temple",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Allen Forest Zoo",
+    "category": "zoo",
+    "rating": 4.2,
+    "avg_cost": 150
+  },
+  {
+    "city": "Jammu and Kashmir",
+    "name": "Dal Lake",
+    "category": "lake",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Ladakh",
+    "name": "Pangong Tso",
+    "category": "lake",
+    "rating": 4.9,
+    "avg_cost": 20
+  },
+  {
+    "city": "Jammu and Kashmir",
+    "name": "Betaab Valley",
+    "category": "valley",
+    "rating": 4.6,
+    "avg_cost": 100
+  },
+  {
+    "city": "Jammu and Kashmir",
+    "name": "Vaishno Devi",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Jammu and Kashmir",
+    "name": "Patnitop Height",
+    "category": "hill",
+    "rating": 4.1,
+    "avg_cost": 0
+  },
+  {
+    "city": "Jammu and Kashmir",
+    "name": "Amarnath Cave",
+    "category": "temple",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Ladakh",
+    "name": "Thiksey Monastery",
+    "category": "monastery",
+    "rating": 4.7,
+    "avg_cost": 20
+  },
+  {
+    "city": "Ladakh",
+    "name": "Nubra Valley",
+    "category": "valley",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Ladakh",
+    "name": "Kargil War Memorial",
+    "category": "war memorial",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Ladakh",
+    "name": "Diskit Monastery",
+    "category": "monastery",
+    "rating": 4.7,
+    "avg_cost": 20
+  },
+  {
+    "city": "Jammu and Kashmir",
+    "name": "Kishtwar National Park",
+    "category": "national park",
+    "rating": 4.3,
+    "avg_cost": 100
+  },
+  {
+    "city": "Ladakh",
+    "name": "Hemis National Park",
+    "category": "national park",
+    "rating": 4.4,
+    "avg_cost": 20
+  },
+  {
+    "city": "Ladakh",
+    "name": "Dras War Memorial",
+    "category": "war memorial",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Ladakh",
+    "name": "Magnetic Hill",
+    "category": "gravity hill",
+    "rating": 3.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Ladakh",
+    "name": "Khardung La Pass",
+    "category": "hill",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Prem Mandir",
+    "category": "temple",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Kirti Mandir",
+    "category": "memorial",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Nand Gaon",
+    "category": "village",
+    "rating": 4.1,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Barsana Mandir",
+    "category": "temple",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "West Bengal",
+    "name": "Tiger Hill",
+    "category": "sunrise point",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "West Bengal",
+    "name": "Jaldapara National Park",
+    "category": "wildlife sanctuary",
+    "rating": 4.4,
+    "avg_cost": 250
+  },
+  {
+    "city": "West Bengal",
+    "name": "Sundarbans National Park",
+    "category": "national park",
+    "rating": 4.4,
+    "avg_cost": 60
+  },
+  {
+    "city": "West Bengal",
+    "name": "Digha Beach",
+    "category": "beach",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "West Bengal",
+    "name": "Hazarduari Palace",
+    "category": "palace",
+    "rating": 4.5,
+    "avg_cost": 10
+  },
+  {
+    "city": "West Bengal",
+    "name": "Kankalitala Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "West Bengal",
+    "name": "Hangseswari Temple",
+    "category": "temple",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "West Bengal",
+    "name": "Gorumara National Park",
+    "category": "national park",
+    "rating": 4.4,
+    "avg_cost": 100
+  },
+  {
+    "city": "West Bengal",
+    "name": "Cooch Behar Palace",
+    "category": "palace",
+    "rating": 4.5,
+    "avg_cost": 20
+  },
+  {
+    "city": "West Bengal",
+    "name": "Ayodhya Hills",
+    "category": "hill",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Odisha",
+    "name": "Jagannath Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Odisha",
+    "name": "Sun Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 40
+  },
+  {
+    "city": "Odisha",
+    "name": "Lingaraj Temple",
+    "category": "temple",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Odisha",
+    "name": "Khandadhar Waterfall",
+    "category": "waterfall",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Odisha",
+    "name": "Barabati Fort",
+    "category": "fort",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Odisha",
+    "name": "Hirakud Dam",
+    "category": "dam",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Odisha",
+    "name": "Chilika Lake",
+    "category": "lake",
+    "rating": 3.9,
+    "avg_cost": 0
+  },
+  {
+    "city": "Odisha",
+    "name": "Tara Tarini Temple",
+    "category": "temple",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Odisha",
+    "name": "Badaghagara Waterfall",
+    "category": "waterfall",
+    "rating": 4.3,
+    "avg_cost": 0
+  },
+  {
+    "city": "Odisha",
+    "name": "Chandipur Beach",
+    "category": "beach",
+    "rating": 4.2,
+    "avg_cost": 0
+  },
+  {
+    "city": "Odisha",
+    "name": "Sanaghagara Waterfall",
+    "category": "waterfall",
+    "rating": 4.4,
+    "avg_cost": 0
+  },
+  {
+    "city": "Tamil Nadu",
+    "name": "Marina Beach",
+    "category": "beach",
+    "rating": 3.9,
+    "avg_cost": 0
+  },
+  {
+    "city": "Tamil Nadu",
+    "name": "Meenakshi Amman Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Tamil Nadu",
+    "name": "Ramanathaswamy Temple",
+    "category": "temple",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Tamil Nadu",
+    "name": "Vivekananda Rock Memorial",
+    "category": "memorial",
+    "rating": 4.6,
+    "avg_cost": 20
+  },
+  {
+    "city": "Tamil Nadu",
+    "name": "Ooty Lake",
+    "category": "lake",
+    "rating": 4.1,
+    "avg_cost": 10
+  },
+  {
+    "city": "Tamil Nadu",
+    "name": "Marudamalai Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Tamil Nadu",
+    "name": "Kodaikanal Lake",
+    "category": "lake",
+    "rating": 3.9,
+    "avg_cost": 0
+  },
+  {
+    "city": "Tamil Nadu",
+    "name": "Brihadeeswarar Temple",
+    "category": "temple",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Tamil Nadu",
+    "name": "Shore Temple",
+    "category": "temple",
+    "rating": 4.6,
+    "avg_cost": 40
+  },
+  {
+    "city": "Tamil Nadu",
+    "name": "Yercaud Lake",
+    "category": "lake",
+    "rating": 4.2,
+    "avg_cost": 0
+  },
+  {
+    "city": "Tamil Nadu",
+    "name": "Nellaiappar Temple",
+    "category": "temple",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Tamil Nadu",
+    "name": "Nataraja Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Andhra Pradesh",
+    "name": "Kanaka Durga Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Andhra Pradesh",
+    "name": "Rishikonda Beach",
+    "category": "beach",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Andhra Pradesh",
+    "name": "Mallikarjuna Swamy Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Andhra Pradesh",
+    "name": "Papikondalu",
+    "category": "hill",
+    "rating": 4.3,
+    "avg_cost": 0
+  },
+  {
+    "city": "Andhra Pradesh",
+    "name": "Lepakshi",
+    "category": "site",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Andhra Pradesh",
+    "name": "Belum Caves",
+    "category": "cave",
+    "rating": 4.4,
+    "avg_cost": 65
+  },
+  {
+    "city": "Andhra Pradesh",
+    "name": "Amaravathi Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Andhra Pradesh",
+    "name": "Uppalapadu Bird Sanctuary",
+    "category": "bird sanctuary",
+    "rating": 4.4,
+    "avg_cost": 10
+  },
+  {
+    "city": "Andhra Pradesh",
+    "name": "Gandikota Fort",
+    "category": "fort",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Andhra Pradesh",
+    "name": "Prasanthi Nilayam",
+    "category": "spiritual center",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Andhra Pradesh",
+    "name": "Simhachalam Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Andhra Pradesh",
+    "name": "Kailasagiri",
+    "category": "hill",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Andhra Pradesh",
+    "name": "Submarine Museum",
+    "category": "museum",
+    "rating": 4.6,
+    "avg_cost": 40
+  },
+  {
+    "city": "Andhra Pradesh",
+    "name": "Borra Caves",
+    "category": "cave",
+    "rating": 4.5,
+    "avg_cost": 60
+  },
+  {
+    "city": "Andhra Pradesh",
+    "name": "War Memorial",
+    "category": "war memorial",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Andhra Pradesh",
+    "name": "Indira Gandhi Zoological Park",
+    "category": "zoo",
+    "rating": 4.1,
+    "avg_cost": 20
+  },
+  {
+    "city": "Andhra Pradesh",
+    "name": "Matsyadarshini Aquarium",
+    "category": "aquarium",
+    "rating": 3.8,
+    "avg_cost": 20
+  },
+  {
+    "city": "Andhra Pradesh",
+    "name": "Visakha Museum",
+    "category": "museum",
+    "rating": 4.3,
+    "avg_cost": 10
+  },
+  {
+    "city": "Sikkim",
+    "name": "Nathula Pass",
+    "category": "hill",
+    "rating": 4.3,
+    "avg_cost": 20
+  },
+  {
+    "city": "Sikkim",
+    "name": "Pemayangtse Monastery",
+    "category": "monastery",
+    "rating": 4.6,
+    "avg_cost": 20
+  },
+  {
+    "city": "Sikkim",
+    "name": "Char Dham",
+    "category": "religious complex",
+    "rating": 4.7,
+    "avg_cost": 50
+  },
+  {
+    "city": "Sikkim",
+    "name": "Rumtek Monastery",
+    "category": "monastery",
+    "rating": 4.6,
+    "avg_cost": 10
+  },
+  {
+    "city": "Sikkim",
+    "name": "Buddha Park",
+    "category": "park",
+    "rating": 4.8,
+    "avg_cost": 50
+  },
+  {
+    "city": "Sikkim",
+    "name": "Baba Harbhajan Singh Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Sikkim",
+    "name": "Tsomgo Lake",
+    "category": "lake",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Assam",
+    "name": "Kamakhya Temple",
+    "category": "temple",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Assam",
+    "name": "Kaziranga National Park",
+    "category": "national park",
+    "rating": 4.5,
+    "avg_cost": 650
+  },
+  {
+    "city": "Assam",
+    "name": "Umananda Island",
+    "category": "island",
+    "rating": 4.1,
+    "avg_cost": 0
+  },
+  {
+    "city": "Assam",
+    "name": "Sivasagar Sivadol",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Assam",
+    "name": "Majuli Island",
+    "category": "river island",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Assam",
+    "name": "Manas National Park",
+    "category": "national park",
+    "rating": 4.6,
+    "avg_cost": 500
+  },
+  {
+    "city": "Assam",
+    "name": "Hayagriva Madhava Temple",
+    "category": "temple",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Assam",
+    "name": "Pobitora Wildlife Sanctuary",
+    "category": "wildlife sanctuary",
+    "rating": 4.4,
+    "avg_cost": 500
+  },
+  {
+    "city": "Arunachal Pradesh",
+    "name": "Tawang Monastery",
+    "category": "monastery",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Tripura",
+    "name": "Ujjayanta Palace",
+    "category": "palace",
+    "rating": 4.5,
+    "avg_cost": 10
+  },
+  {
+    "city": "Tripura",
+    "name": "Dumboor Lake",
+    "category": "lake",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Tripura",
+    "name": "Unakoti Rock Carvings",
+    "category": "rock carvings",
+    "rating": 4.5,
+    "avg_cost": 20
+  },
+  {
+    "city": "Chhattisgarh",
+    "name": "Chitrakote Falls",
+    "category": "waterfall",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Nagaland",
+    "name": "Dzükou Valley",
+    "category": "valley",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Puducherry",
+    "name": "Promenade Beach",
+    "category": "beach",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Puducherry",
+    "name": "Auroville",
+    "category": "township",
+    "rating": 4.1,
+    "avg_cost": 0
+  },
+  {
+    "city": "Puducherry",
+    "name": "Paradise Beach",
+    "category": "beach",
+    "rating": 4.5,
+    "avg_cost": 200
+  },
+  {
+    "city": "Andaman and Nicobar Islands",
+    "name": "Cellular Jail",
+    "category": "landmark",
+    "rating": 4.7,
+    "avg_cost": 30
+  },
+  {
+    "city": "Andaman and Nicobar Islands",
+    "name": "Radhanagar Beach",
+    "category": "beach",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Andaman and Nicobar Islands",
+    "name": "Bharatpur Beach",
+    "category": "beach",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Andaman and Nicobar Islands",
+    "name": "Limestone Caves",
+    "category": "natural feature",
+    "rating": 4.4,
+    "avg_cost": 250
+  },
+  {
+    "city": "Daman and Diu",
+    "name": "Naida Caves",
+    "category": "cave",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Daman and Diu",
+    "name": "Diu Fort",
+    "category": "fort",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Jharkhand",
+    "name": "Baba Baidyanath Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Jharkhand",
+    "name": "Pahari Mandir",
+    "category": "temple",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Bihar",
+    "name": "Mahabodhi Temple",
+    "category": "temple",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Bihar",
+    "name": "Sanjay Gandhi Biological Park",
+    "category": "zoo",
+    "rating": 4.3,
+    "avg_cost": 30
+  },
+  {
+    "city": "Bihar",
+    "name": "Takhat Shri Harimandir Ji Patna Sahib",
+    "category": "gurudwara",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Bihar",
+    "name": "Budhha Smriti Park",
+    "category": "park",
+    "rating": 4.4,
+    "avg_cost": 10
+  },
+  {
+    "city": "Haryana",
+    "name": "Kingdom of Dreams",
+    "category": "entertainment",
+    "rating": 4.4,
+    "avg_cost": 1100
+  },
+  {
+    "city": "Haryana",
+    "name": "Ambience Mall",
+    "category": "mall",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Haryana",
+    "name": "DLF CyberHub",
+    "category": "commercial complex",
+    "rating": 4.7,
+    "avg_cost": 0
+  },
+  {
+    "city": "Delhi",
+    "name": "Gurudwara Bangla Sahib",
+    "category": "gurudwara",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttarakhand",
+    "name": "Kedarnath",
+    "category": "temple",
+    "rating": 4.8,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "DLF Mall of India",
+    "category": "mall",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "The Grand Venice Mall",
+    "category": "mall",
+    "rating": 4.2,
+    "avg_cost": 0
+  },
+  {
+    "city": "Karnataka",
+    "name": "Wonderla Amusement Park",
+    "category": "amusement park",
+    "rating": 4.5,
+    "avg_cost": 890
+  },
+  {
+    "city": "Odisha",
+    "name": "Nandankanan Zoological Park",
+    "category": "zoo",
+    "rating": 4.4,
+    "avg_cost": 50
+  },
+  {
+    "city": "Karnataka",
+    "name": "Orion Mall",
+    "category": "mall",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Telangana",
+    "name": "Inorbit Mall Cyberabad",
+    "category": "mall",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Delhi",
+    "name": "Jama Masjid",
+    "category": "mosque",
+    "rating": 4.5,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Buddh International Circuit",
+    "category": "race track",
+    "rating": 4.6,
+    "avg_cost": 1500
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Phoenix Palassio",
+    "category": "mall",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Kerala",
+    "name": "LuLu International Shopping Mall",
+    "category": "mall",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Delhi",
+    "name": "Rail Museum",
+    "category": "museum",
+    "rating": 4.4,
+    "avg_cost": 50
+  },
+  {
+    "city": "Meghalaya",
+    "name": "Living Root Bridge",
+    "category": "natural feature",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Gujarat",
+    "name": "Akshardham",
+    "category": "temple",
+    "rating": 4.6,
+    "avg_cost": 0
+  },
+  {
+    "city": "Uttar Pradesh",
+    "name": "Agra Fort",
+    "category": "fort",
+    "rating": 4.5,
+    "avg_cost": 40
+  },
+  {
+    "city": "Madhya Pradesh",
+    "name": "Madhya Pradesh Tribal Museum",
+    "category": "museum",
+    "rating": 4.7,
+    "avg_cost": 10
+  },
+  {
+    "city": "Rajasthan",
+    "name": "Albert Hall Museum",
+    "category": "museum",
+    "rating": 4.5,
+    "avg_cost": 200
+  }
+]
